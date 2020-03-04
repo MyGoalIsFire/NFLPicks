@@ -1,0 +1,154 @@
+Period,Year,Week,Pick_1,Pick 2,Pick 3,Pick 4
+2011 1,2011,1,New England,NY Giants,Indianapolis,Detroit
+2011 2,2011,2,Buffalo,Green Bay,Dallas,Baltimore
+2011 3,2011,3,Green Bay,Detroit,Atlanta,Arizona
+2011 4,2011,4,Buffalo,LA Chargers,New Orleans,NY Giants
+2011 5,2011,5,LA Chargers,Green Bay,New Orleans,Arizona
+2011 6,2011,6,Oakland,Chicago,Detroit,New Orleans
+2011 7,2011,7,Green Bay,Pittsburgh,Denver,Detroit
+2011 8,2011,8,New England,LA Chargers,New Orleans,Tennessee
+2011 9,2011,9,Oakland,San Francisco,Atlanta,New Orleans
+2011 10,2011,10,Baltimore,San Francisco,New England,Detroit
+2011 11,2011,11,NY Giants,Dallas,San Francisco,Chicago
+2011 12,2011,12,Cincinnati,Houston,Carolina,Tennessee
+2011 13,2011,13,Chicago,Dallas,Baltimore,Atlanta
+2011 14,2011,14,New Orleans,New England,Miami,San Francisco
+2011 15,2011,15,New Orleans,Tennessee,Cincinnati,Baltimore
+2011 16,2011,16,San Francisco,LA Chargers,Miami,Washington
+2011 17,2011,17,New Orleans,Baltimore,Pittsburgh,Tennessee
+2012 1,2012,1,Buffalo,Carolina,New England,Seattle
+2012 2,2012,2,Baltimore,Oakland,Dallas,Washington
+2012 3,2012,3,Buffalo,San Francisco,Detroit,Pittsburgh
+2012 4,2012,4,Atlanta,Seattle,Arizona,Tampa Bay
+2012 5,2012,5,Atlanta,Pittsburgh,Minnesota,Cincinnati
+2012 6,2012,6,Indianapolis,Philadelphia,New England,Houston
+2012 7,2012,7,Oakland,Green Bay,Pittsburgh,Indianapolis
+2012 8,2012,8,Indianapolis,Philadelphia,LA Chargers,Pittsburgh
+2012 9,2012,9,Denver,Washington,Chicago,Detroit
+2012 10,2012,10,Indianapolis,NY Giants,Denver,Miami
+2012 11,2012,11,Washington,Green Bay,New Orleans,Indianapolis
+2012 12,2012,12,New England,Tampa Bay,Los Angeles,Baltimore
+2012 13,2012,13,Chicago,Houston,Denver,San Francisco
+2012 14,2012,14,Cleveland,Chicago,Atlanta,Cincinnati
+2012 15,2012,15,Green Bay,Denver,Pittsburgh,Oakland
+2012 16,2012,16,LA Chargers,Chicago,Washington,Pittsburgh
+2012 17,2012,17,Buffalo,Chicago,Washington,New Orleans
+2013 1,2013,1,Tampa Bay,Kansas City,Miami,Minnesota
+2013 2,2013,2,Chicago,New Orleans,Detroit,Indianapolis
+2013 3,2013,3,Buffalo,LA Chargers,Green Bay,Chicago
+2013 4,2013,4,Washington,Chicago,Cincinnati,Kansas City
+2013 5,2013,5,Denver,LA Chargers,New England,Kansas City
+2013 6,2013,6,Kansas City,LA Chargers,Minnesota,Cleveland
+2013 7,2013,7,LA Chargers,San Francisco,Atlanta,Baltimore
+2013 8,2013,8,Dallas,Kansas City,Pittsburgh,Philadelphia
+2013 9,2013,9,Cincinnati,New Orleans,Baltimore,Oakland
+2013 10,2013,10,Detroit,San Francisco,Indianapolis,New Orleans
+2013 11,2013,11,Detroit,Chicago,New Orleans,Arizona
+2013 12,2013,12,Oakland,Arizona,Cleveland,Baltimore
+2013 13,2013,13,Carolina,Indianapolis,LA Chargers,Arizona
+2013 14,2013,14,Kansas City,Philadelphia,Arizona,LA Chargers
+2013 15,2013,15,Seattle,Arizona,Kansas City,Philadelphia
+2013 16,2013,16,Los Angeles,Cincinnati,Chicago,Jacksonville
+2013 17,2013,17,Tennessee,NY Giants,Philadelphia,Miami
+2014 1,2014,1,San Francisco,Houston,Kansas City,New Orleans
+2014 2,2014,2,Pittsburgh,San Francisco,Indianapolis,Arizona
+2014 3,2014,3,Cincinnati,Los Angeles,Cleveland,Miami
+2014 4,2014,4,Washington,Pittsburgh,Baltimore,Atlanta
+2014 5,2014,5,Green Bay,LA Chargers,Indianapolis,NY Giants
+2014 6,2014,6,Green Bay,Baltimore,NY Giants,Arizona
+2014 7,2014,7,Indianapolis,Arizona,Cleveland,Detroit
+2014 8,2014,8,New England,Arizona,Houston,Indianapolis
+2014 9,2014,9,Cleveland,Washington,Arizona,Cincinnati
+2014 10,2014,10,New Orleans,Baltimore,Pittsburgh,Denver
+2014 11,2014,11,Cleveland,Green Bay,Denver,New Orleans
+2014 12,2014,12,Arizona,Cleveland,Green Bay,San Francisco
+2014 13,2014,13,Cincinnati,Minnesota,Arizona,Denver
+2014 14,2014,14,Los Angeles,Indianapolis,Houston,Kansas City
+2014 15,2014,15,Detroit,New Orleans,Denver,Philadelphia
+2014 16,2014,16,Tampa Bay,Arizona,Pittsburgh,Atlanta
+2014 17,2014,17,New Orleans,Atlanta,Minnesota,Pittsburgh
+2015 1,2015,1,Green Bay,Arizona,LA Chargers,Philadelphia
+2015 2,2015,2,Buffalo,Baltimore,Detroit,Atlanta
+2015 3,2015,3,NY Giants,Pittsburgh,Atlanta,Carolina
+2015 4,2015,4,Atlanta,Carolina,Oakland,Dallas
+2015 5,2015,5,Buffalo,Arizona,Atlanta,NY Giants
+2015 6,2015,6,Atlanta,LA Chargers,Arizona,Tennessee
+2015 7,2015,7,Los Angeles,Miami,Atlanta,Indianapolis
+2015 8,2015,8,Minnesota,Arizona,Atlanta,LA Chargers
+2015 9,2015,9,Pittsburgh,Buffalo,New Orleans,Denver
+2015 10,2015,10,Green Bay,Philadelphia,Oakland,Denver
+2015 11,2015,11,Carolina,Oakland,Baltimore,NY Jets
+2015 12,2015,12,Atlanta,NY Giants,Jacksonville,Pittsburgh
+2015 13,2015,13,Tennessee,Denver,New England,Arizona
+2015 14,2015,14,San Francisco,Detroit,Buffalo,Chicago
+2015 15,2015,15,Jacksonville,Arizona,Green Bay,Cincinnati
+2015 16,2015,16,Cleveland,Tampa Bay,New England,Arizona
+2015 17,2015,17,Houston,Kansas City,Los Angeles,Green Bay
+2016 1,2016,1,Green Bay,Atlanta,Philadelphia,NY Giants
+2016 2,2016,2,Detroit,Houston,Arizona,Oakland
+2016 3,2016,3,Carolina,Pittsburgh,Indianapolis,Tampa Bay
+2016 4,2016,4,Seattle,Baltimore,Detroit,Pittsburgh
+2016 5,2016,5,New England,Pittsburgh,Dallas,Oakland
+2016 6,2016,6,,,,
+2016 7,2016,7,Philadelphia,Detroit,NY Jets,Seattle
+2016 8,2016,8,Detroit,NY Jets,Kansas City,Denver
+2016 9,2016,9,San Francisco,Los Angeles,Denver,LA Chargers
+2016 10,2016,10,Houston,Washington,Green Bay,Chicago
+2016 11,2016,11,Kansas City,Pittsburgh,New England,Seattle
+2016 12,2016,12,Detroit,Tennessee,Baltimore,Atlanta
+2016 13,2016,13,Dallas,Atlanta,Houston,Philadelphia
+2016 14,2016,14,Tennessee,Indianapolis,Minnesota,Detroit
+2016 15,2016,15,Baltimore,Green Bay,Kansas City,Pittsburgh
+2016 16,2016,16,Washington,Green Bay,Tennessee,Houston
+2016 17,2016,17,Tennessee,Minnesota,Pittsburgh,Kansas City
+2017 1,2017,1,Houston,Philadelphia,Carolina,LA Rams
+2017 2,2017,2,Pittsburgh,LA Chargers,Arizona,Tennessee
+2017 3,2017,3,LA Rams,Carolina,Atlanta,Philadelphia
+2017 4,2017,4,LA Rams,Jacksonville,Houston,Tampa Bay
+2017 5,2017,5,Miiami,Baltimore,Philadelphia,Detroit
+2017 6,2017,6,New Orleans,Baltimore,Tampa Bay,Kansas City
+2017 7,2017,7,Jacksonville,Minnesota,Miami,Carolina
+2017 8,2017,8,Atlanta,Tampa Bay,Philadelphia,New England
+2017 9,2017,9,LA Rams,New Orleans,Jacksonville,Tennessee
+2017 10,2017,10,Minnesota,Jacksonville,Tennessee,San Francisco
+2017 11,2017,11,Baltimore,Jacksonville,Houston,Philadelphia
+2017 12,2017,12,Carolina,Tennessee,Jacksonville,Oakland
+2017 13,2017,13,Green Bay,Baltimore,New Orleans,Pittsburgh
+2017 14,2017,14,Minnesota,Green Bay,Seattle,LA Chargers
+2017 15,2017,15,Washington,Baltimore,San Francisco,Dallas
+2017 16,2017,16,LA Chargers,LA Rams,Chicago,Washington
+2017 17,2017,17,Atlanta,New Orleans,Jacksonville,Washington
+2018 1,2018,1,Tennessee,LA Chargers,Carolina,Washington
+2018 2,2018,2,NY Jet,NY Giants,Denver,Washington
+2018 3,2018,3,Cincinnati,Philadelphia,Kansas City,New England
+2018 4,2018,4,Indianapolis,Cincinnati,Philadelphia,Seattle
+2018 5,2018,5,Baltimore,Kansas City,Green Bay,LA Chargers
+2018 6,2018,6,LA Chargers,Atlanta,LA Rams,Baltimore
+2018 7,2018,7,New England,Cincinnati,Houston,Atlanta
+2018 8,2018,8,Washington,Cincinnati,Indianapolis,San Francisco
+2018 9,2018,9,Minnesota,Kansas City,Carolina,LA Chargers
+2018 10,2018,10,Atlanta,Indianapolis,Washington,Chicago
+2018 11,2018,11,Carolina,Chicago,Indianapolis,Tampa Bay
+2018 12,2018,12,Tampa Bay,Cincinnati,New England,Indianapolis
+2018 13,2018,13,Indianapolis,Chicago,Denver,Arizona
+2018 14,2018,14,Green Bay,Denver,Detroit,Kansas City
+2018 15,2018,15,Minnesota,Chicago,NY Giants,Seattle
+2018 16,2018,16,LA Chargers,Dallas,Houston,Chicago
+2018 17,2018,17,Philadelphia,Indianapolis,Houston,Buffalo
+2019 1,2019,1,Cleveland,LA Chargers,Kansas City,Seattle
+2019 2,2019,2,Buffalo,Dallas,Kansas City,Chicago
+2019 3,2019,3,Seattle,LA Rams,Buffalo,New England
+2019 4,2019,4,Kansas City,Seattle,Minnesota,Atlanta
+2019 5,2019,5,New England,Philadelphia,Cincinnati,LA Chargers
+2019 6,2019,6,New England,Seattle,New Orleans,LA Chargers
+2019 7,2019,7,,,,
+2019 8,2019,8,,,,
+2019 9,2019,9,,,,
+2019 10,2019,10,,,,
+2019 11,2019,11,,,,
+2019 12,2019,12,,,,
+2019 13,2019,13,,,,
+2019 14,2019,14,,,,
+2019 15,2019,15,,,,
+2019 16,2019,16,,,,
+2019 17,2019,17,,,,
